@@ -1,0 +1,7 @@
+# Settings
+hardware_watchdog="True"
+host="xxx"
+port=xxx
+user="xxx"
+passwd="xxx"
+db="xxx"
